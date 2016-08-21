@@ -1,1 +1,1 @@
-{"name":"medalbot--olympic-medal-api","display_name":"medalbot--olympic-medal-api","owner":"countnazgul","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"57b9dc6df7113b11003b8540"}
+{"name":"medalbot--olympic-medal-api","display_name":"medalbot--olympic-medal-api","owner":"countnazgul","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"57b9dc6df7113b11003b8540","base_endpoint":"http://www.medalbot.com/api/v1/medals","data_element":""}
